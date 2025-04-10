@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Edge URL is mandatory in Use ApplicationBrows",
+  "Type": "Screen",
+  "Id": "_y-aoGaPIEediEOHB3nVyQ",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/_y-aoGaPIEediEOHB3nVyQ",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/l30Uxd3ijEGaTZ9dtisQMw",
+  "Created": "2025-04-07T21:15:44.2153258Z",
+  "Updated": "2025-04-07T21:16:23.3746946Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

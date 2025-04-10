@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="SIOzfwdHvEOzjjvrFNge9w" Reference="QIrQ5PJ1okK1ojLnv_LmXw/_y-aoGaPIEediEOHB3nVyQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="1912, -8, 1936, 1048" BrowserType="Edge" ContentHash="hPYesE9yokOXVxNDcYJVoA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIySURBVFhH7Ze/S1xBEMfPHzmjCCkCg2WaENBWLQwRkmKKKLFIahsbbYVIUhjURkLSpLJKE1Jo7z9gRC1EUwXEIugfYCnKqFG+x4xM1n3v7uneXePBl7333Xkzn917u2+vJEyXzVQpMP41SJkADZcBGNWkMPUK0wthGkqsYWF6JkzvtdZFDADF4dVTGBxqnccA0AmvU5jahemBE65jCmPQtkUKd2v7Jg8AUwUPidC2qK4T4RMkthiLs/ajMO0L00oQP1ILQGwEWQAxDWo+0w/XVxMAtCRMv4XprzBNqFdWAD8r28K0LkwHwjSl3rTmO9J2x8WP1grwx43gi3oPIwB+pF/VQ/+h81/eZgZ+uQSfqgCcajvrfMivKjzYhQA2HMBcFYBKMheHlYB1/1RzPnbxdQWYD3zTu2YDoOg9QBoAbbMALC45gI2sGsBCSoAtl+BDAOCF/sqr1e0XSQDWXIKf6uGNhheVgeC7L/QqJcBn9WyXe+L6TIvad6ZtR0qAHvVseqFxYeoXpgFh+h4ArgZwdwKwffub+idBQpP3H0UADP51UQDs5XYDfv+wcKi+yH2+/21RADxcfqk9F6ZlYTp2SXeFacbF2CnKhHPCpjDt6f2FAdACIvN0lFM8JpudXAC8QuF1BYdNXEOt2g+wsi5LPPk+1gTfZDlw71geAM7tIXlqYZYzAfCnAUdzHJ0xVTi/mXAdk4/Ji8XIURzbOmr998ekaQoBQIWpqaf8xnYDoOG6As3TcUQlvn3aAAAAAElFTkSuQmCC" Reference="QIrQ5PJ1okK1ojLnv_LmXw/_y-aoGaPIEediEOHB3nVyQ" Selector="&lt;html app='msedge.exe' title='URL is mandatory in Use Application/Browser Activity - Help / Studio - UiPath Community Forum' /&gt;" Title="URL is mandatory in Use Application/Browser Activity - Help / Studio - UiPath Community Forum" Url="[final_url]" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="6cf12150464e01256d38d2518d74bd41.jpg" xmlns="">0A-5xBhFrUk61rLHlYjMN7g</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="final_url" />
+    </scg:List>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

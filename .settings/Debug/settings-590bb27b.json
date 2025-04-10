@@ -25,5 +25,8 @@
   "UiPath.OCR.Activities.CjkOCR.Endpoint": "https://du.uipath.com/cjk-ocr",
   "UiPath.OCR.Activities.CjkOCR.ApiKey": "",
   "UiPath.OCR.Activities.ExtendedLanguagesOCR.Endpoint": "https://du.uipath.com/extended-ocr",
-  "UiPath.OCR.Activities.ExtendedLanguagesOCR.ApiKey": ""
+  "UiPath.OCR.Activities.ExtendedLanguagesOCR.ApiKey": "",
+  "UiPath.OmniPage.Activities.OmniPageOCR.Scale": "1",
+  "UiPath.OmniPage.Activities.OmniPageOCR.Language": "",
+  "UiPath.OmniPage.Activities.OmniPageOCR.Profile": "None"
 }

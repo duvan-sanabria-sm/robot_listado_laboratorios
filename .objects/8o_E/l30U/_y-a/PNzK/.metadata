@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ANEXO DEL CERTIFICADO",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "PNzKnXbyMES96C32Nd7Fmw",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/PNzKnXbyMES96C32Nd7Fmw",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/_y-aoGaPIEediEOHB3nVyQ",
+  "Created": "2025-04-10T16:56:44.945193Z",
+  "Updated": "2025-04-10T16:56:44.945193Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

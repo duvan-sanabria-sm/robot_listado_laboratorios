@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2BDZLLIf2E-rImmfxXlF1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="di.fm/shows/popular" CVScreenId="fe0c595e-a9de-49c4-86a2-385b0591f4ab" CvTextArea="491, 897, 330, 15" CvTextArgument="Página 1 de 8 FR 3.5-3-06 V5 Aprobado 2023-07-18" CvType="Text" DesignTimeRectangle="492, 896, 329, 17" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='Vista del documento' role='grouping' /&gt;&lt;ctrl name='Page 1 ISO/IEC 17025:2017 Requisitos generales para la competenc*' role='grouping' /&gt;&lt;ctrl idx='14' role='grouping' /&gt;" Guid="74bf8eee-be79-495c-b00f-94bab758031c" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='13-LAB-053.pdf - Trabajo: Microsoft​ Edge' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="519176b9b72fed8c33692aeaf70000e4.png" xmlns="">0MjIGJOJr0EWnGx62qM1a8g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

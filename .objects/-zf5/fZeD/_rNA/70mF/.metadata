@@ -1,0 +1,14 @@
+﻿{
+  "Name": "push button Ir a la pág…",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "70mFjB8p4Ee_rfR92Xtu-Q",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/70mFjB8p4Ee_rfR92Xtu-Q",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/_rNAYQyHXE2OKRJNAsvGwg",
+  "Created": "2025-04-07T16:12:44.6374296Z",
+  "Updated": "2025-04-07T16:12:44.6374296Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

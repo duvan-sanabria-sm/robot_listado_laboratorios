@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Traductor de Google",
+  "Type": "Screen",
+  "Id": "RmjoUWNksEq05DSG_igiwg",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/RmjoUWNksEq05DSG_igiwg",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/6Li8Cic1bEio6u3T2vIFcQ",
+  "Created": "2025-04-07T20:40:30.8723314Z",
+  "Updated": "2025-04-07T20:40:30.8723314Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

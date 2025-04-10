@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="9549-BbqMU6HIhTsx8F9Dg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="1912, -8, 1936, 1048" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJGSURBVDhPhZHLaxNRGMVn5cL/yZXQR5omfYkFuym0iBtxIbgQNJZA3g98pA+zsC0NCDWmWNI2m1i0gaQNlYlJZvKYSTJJA1Vw6s1ddXHk3mlCTcUeOFy43N/5znwj3PXr4akgwWSAYJzZTzDmJ7D6CKbdjVvCdWLgVJBiMkgxwRygGA9QjPkprI7T1f73VzQRIP+G/RQWz49zmy1/o5/5S6x2F+4PsPooXm6qkiyXP6mquqVpWqxe12KKUo/VarWPhUJlWmDfzMD7YYqMrENp6jjI6/zO4qN4GD6FmCui2Wyh3W7j5OSEu9VqQdM0CGxhbOKhrOPFJuGTZ0IGPOplLTr4fCBCksscuhJg8RlQvf2Ln692CKS6ju+KzgPMXoqlWAWimMfcczcHu240GhAsXvbLjAYLHwifbI8SJMUzDps9FPe8JTiX1uENR+AKb+BJYAWvI1EjYNRrQHNvKdKSjlpbx6F8htnlDodHPBRsyOJGHF/TWaxFtxFPfkGz2TQCzB7Sq9qzxzCDTe4Oht0dBCIinvpXYA+9Q7lchqqqRsCIm/SAy+BleNjVwYPFBh47Q7AvrkKSJFSrVSiKAsHkJj2gC/XAC3jI1YHJpSORzGArkYRjZQ2lUhmVSgXCwMLPN0PO3+h68MIDDuNk8KDT8PpeBcWihP1UGrIsGwH/k812dPP2nTiYrbN7SO5/gyTJHGZ7uDaAaf5Romae2cX2zhFyuTxv0A1g7n9/Rc+cu/Pvoylks8cQxRwKhQKKxSJfZCpzvPwHH3F9HbAh89sAAAAASUVORK5CYII=" Selector="&lt;html app='msedge.exe' title='Traductor de Google' /&gt;" Title="Traductor de Google" Url="https://translate.google.com/?hl=es&amp;sl=en&amp;tl=es&amp;text=webdriver%20mode&amp;op=translate" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="e7cf8d16fb0667d634d531b6d8dceca4.jpg" xmlns="">0YQedcL_XyEWDs4ubRNTppg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

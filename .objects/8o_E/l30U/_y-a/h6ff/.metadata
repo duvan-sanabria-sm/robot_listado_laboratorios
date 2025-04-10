@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ONAC ACREDITA A",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "h6ff7ywjLU6lWBWi3K91qw",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/h6ff7ywjLU6lWBWi3K91qw",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/_y-aoGaPIEediEOHB3nVyQ",
+  "Created": "2025-04-10T17:24:16.4952617Z",
+  "Updated": "2025-04-10T17:24:16.4952617Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

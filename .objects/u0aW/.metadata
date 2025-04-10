@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Traductor de Google",
+  "Type": "App",
+  "Id": "u0aWG3SjLEK-4GBNx2-bRA",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/u0aWG3SjLEK-4GBNx2-bRA",
+  "Created": "2025-04-07T20:40:30.8481437Z",
+  "Updated": "2025-04-07T20:40:30.8481437Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

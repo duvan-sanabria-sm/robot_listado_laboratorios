@@ -1,0 +1,13 @@
+﻿{
+  "Name": "GetLinksFromCells.vb - Untitled (Workspace) -",
+  "Type": "Screen",
+  "Id": "Y0sAY2wI20C2LKh7zqVCXw",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/Y0sAY2wI20C2LKh7zqVCXw",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/mhW11EeTs0yDgxCgwqyFvg",
+  "Created": "2025-04-07T19:57:23.7730382Z",
+  "Updated": "2025-04-07T19:57:23.7730382Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

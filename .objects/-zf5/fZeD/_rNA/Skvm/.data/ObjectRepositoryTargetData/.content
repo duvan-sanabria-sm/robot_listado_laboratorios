@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vvPnbdVPekK-scLnBaT86A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" DesignTimeRectangle="934, 165, 41, 32" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='18-LAB-018.pdf' role='document' /&gt;&lt;ctrl name='Barra de PDF' role='tool bar' /&gt;&lt;ctrl name='Número de página' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='18-LAB-018.pdf' role='document' /&gt;&lt;ctrl name='Barra de PDF' role='tool bar' /&gt;&lt;ctrl name='Número de página' role='editable text' automationid='' /&gt;" Guid="8509fe00-ce99-4a5c-88da-903379fc0695" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='18-LAB-018.pdf y 5 páginas más - Trabajo: Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="932, 165, 84, 32" FullSelectorArgument="&lt;ctrl name='18-LAB-018.pdf' role='document' /&gt;&lt;ctrl name='Barra de PDF' role='tool bar' /&gt;&lt;ctrl idx='14' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='18-LAB-018.pdf' role='document' /&gt;&lt;ctrl name='Barra de PDF' role='tool bar' /&gt;&lt;ctrl automationid='' role='grouping' check:fulltext='1' /&gt;" Guid="1af3ce0b-aa6f-42da-b417-526f3acd2d79" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="77b6f4e804f609d2dbfacd4dbbed6b21.png" xmlns="">0AXxsbaekU0aTfRRUrg0bEA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OpkGSo3NTk2LV2CwCwSOBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="onac.org.co/certificados/13-LAB-053.pdf" CVScreenId="dc491c2f-7358-4a06-b3ab-e12bda497be5" CvTextArea="777, 316, 359, 14" CvTextArgument="Alcance de la acreditación aprobado / Documento Normativo" CvType="Text" DesignTimeRectangle="777, 316, 359, 14" DesignTimeScaleFactor="1" ElementType="Text" Guid="f43eb133-a3db-4e64-aa7c-7454f2a1c5ae" ScopeSelectorArgument="&lt;html app='msedge.exe' title='13-LAB-053.pdf' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dc491c2f-7358-4a06-b3ab-e12bda497be5" CvElementArea="441, 231, 149, 63" CvType="Button" DesignTimeRectangle="441, 231, 147, 62" ElementType="Button" Guid="e31f1923-270f-4388-9213-08cc9fb723c5" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dc2574d09177da8499498d7067db20cb.png" xmlns="">0-UVOpc02n0iQbBBrrSim_w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge URL is mandatory in Use ApplicationBrowser Activity - Help  Studio - UiPath Comm",
+  "Type": "App",
+  "Id": "8o_EnHwvyEmYxdud54r3QQ",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/8o_EnHwvyEmYxdud54r3QQ",
+  "Created": "2025-04-07T21:15:44.1639377Z",
+  "Updated": "2025-04-07T21:15:44.1639377Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
