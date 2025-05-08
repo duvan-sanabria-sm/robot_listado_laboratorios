@@ -1,0 +1,14 @@
+﻿{
+  "Name": "del Otorgamiento",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "tRqS5FEPpk-a5g-RqJp5Dw",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/tRqS5FEPpk-a5g-RqJp5Dw",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/Uvb5gVhynE-IZcIlqDp0kA",
+  "Created": "2025-05-02T13:33:27.2847705Z",
+  "Updated": "2025-05-02T13:33:27.2847705Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

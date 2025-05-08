@@ -1,0 +1,14 @@
+﻿{
+  "Name": "table",
+  "Type": "Element",
+  "TaxonomyType": "Table",
+  "Id": "1Uq0cjbqAEy2H8NZQo9g3w",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/1Uq0cjbqAEy2H8NZQo9g3w",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/uJm8f1HGB0uiViN0C3_GXQ",
+  "Created": "2025-04-28T15:44:29.7924625Z",
+  "Updated": "2025-04-28T15:44:29.7924625Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

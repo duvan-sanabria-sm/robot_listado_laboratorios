@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jDUNyzymgUm0W563LGeIvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="21e4590f-2e20-49e4-b55c-2e73c01c3def" CvTextArea="466, 408, 208, 20" CvTextArgument="ONAC ACREDITA A:" CvType="Text" DesignTimeRectangle="466, 408, 208, 21" DesignTimeScaleFactor="1" ElementType="Text" Guid="67ba2c95-ed81-4555-ae78-339aef864b65" ScopeSelectorArgument="&lt;html app='msedge.exe' title='13-LAB-053.pdf' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="21e4590f-2e20-49e4-b55c-2e73c01c3def" CvTextArea="1048, 307, 119, 42" CvTextArgument="WAAC" CvType="Text" DesignTimeRectangle="1049, 307, 117, 39" ElementType="Text" Guid="9017cf06-0f81-4246-a021-8a6db36121dc" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e9fc0767a288b949bc7e8df014b36e98.png" xmlns="">0sfMv834P1U2A4Yg1zKH-2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

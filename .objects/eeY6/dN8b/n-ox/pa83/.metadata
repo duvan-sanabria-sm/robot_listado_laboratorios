@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sube tu archivo y trans…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "pa83ldLknk24OAPV11Zt4w",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/pa83ldLknk24OAPV11Zt4w",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/n-oxVcZ0J0imsSAOb_AzfQ",
+  "Created": "2025-05-06T17:04:04.9495015Z",
+  "Updated": "2025-05-06T17:04:04.9495015Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

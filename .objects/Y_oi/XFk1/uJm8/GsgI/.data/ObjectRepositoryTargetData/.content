@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="br9KPRmGVEaf8G4RD-eRlQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="188, 332, 1638, 576" DesignTimeScaleFactor="1" ElementType="Table" FullSelectorArgument="&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='Vista del documento' role='grouping' /&gt;&lt;ctrl role='table' /&gt;" Guid="91c59fea-f8f0-4811-b609-8f76fa581b10" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='13-LAB-053.pdf - Trabajo: Microsoft​ Edge' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="593dbaf86968b8ce96ec9d5b0efbdb05.png" xmlns="">0lXBAT_RNqUWxiQ-5J3y-LA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <TargetAnchorable x:Key="NextLinkTarget" BrowserURL="efaidnbmnnnibpcajpcglclefindmkaj/https://onac.org.co/certificados/13-LAB-053.pdf" CVScreenId="26d81406-a37b-4c29-987a-52333d60be03" CvElementArea="1888, 784, 21, 18" CvType="ArrowButton" DesignTimeRectangle="1883, 778, 32, 32" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='Ir a la página siguiente' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='Ir a la página siguiente' role='push button' automationid='' /&gt;" Guid="ecf0b169-0129-4481-b5d8-97c5f7897510" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='13-LAB-053.pdf - Trabajo: Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="Cfc4xwbWOUOVHlOXIlWTPg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="4vcUtT4bF0SKDLNGllAASg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="onac.org.co/certificados/18-LAB-032.pdf" CVScreenId="45d61478-fbf4-495e-a9d7-d1ffab7b90ef" CvTextArea="468, 406, 207, 20" CvTextArgument="ONAC ACREDITA A:" CvType="Text" DesignTimeRectangle="468, 406, 207, 20" DesignTimeScaleFactor="1" ElementType="Text" Guid="53f0e910-b6c9-4b39-901f-91f185190318" ScopeSelectorArgument="&lt;html app='msedge.exe' title='18-LAB-032.pdf' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
-      <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="4">
-          <Target CVScreenId="45d61478-fbf4-495e-a9d7-d1ffab7b90ef" CvElementArea="452, 263, 238, 102" CvType="Button" DesignTimeRectangle="452, 262, 239, 103" ElementType="Button" Guid="b5bc9af8-f8c7-412c-b8d0-7d7afedbb058" SearchSteps="CV" TargetType="ComputerVisionBased" />
-        </scg:List>
-      </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="0c72f68bb286a6a79f8c6fd8985bb2e8.png" xmlns="">0TlEM6ynEKEKc9JdZh4-gnA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="efaidnbmnnnibpcajpcglclefindmkaj/https://onac.org.co/certificados/13-LAB-053.pdf" CVScreenId="c233843d-1ba0-4964-8af2-62885c291c83" CvTextArea="414, 449, 233, 22" CvTextArgument="ONAC ACREDITA A:" CvType="Text" DesignTimeRectangle="414, 449, 233, 22" DesignTimeScaleFactor="1" ElementType="Text" Guid="9c301876-de58-407f-a7c1-82851144c27e" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='13-LAB-053.pdf - Trabajo: Microsoft​ Edge' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="81a9853e89c3f5bbf1e4523dcbee9b76.png" xmlns="">0UzH5okXv4k2n74b5mVXQMw</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge 13-LAB-053.pdf(1)",
+  "Type": "Screen",
+  "Id": "T4qZedFHX0KAo4YROpaDTg",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/T4qZedFHX0KAo4YROpaDTg",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/OAro6GO8E0-eP_c66S-daQ",
+  "Created": "2025-04-24T16:50:39.8855119Z",
+  "Updated": "2025-04-24T16:50:39.8855119Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

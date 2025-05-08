@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Fecha de Renovación",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "pb5fMlEJPUWHiOQ1RuQAZA",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/pb5fMlEJPUWHiOQ1RuQAZA",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/Uvb5gVhynE-IZcIlqDp0kA",
+  "Created": "2025-05-02T13:35:05.1925927Z",
+  "Updated": "2025-05-02T13:35:05.1925927Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="s3hmQWi-uk2w-a533CUF3Q" Reference="QIrQ5PJ1okK1ojLnv_LmXw/QKXM0E6lN0G0vuIPxhi5jg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="e8de19ea-2091-4fd4-af8c-2990c92c80eb" CvElementArea="1283, 556, 176, 39" CvTextArea="1323, 570, 85, 15" CvTextArgument="2024-10-25" CvType="Button" DesignTimeRectangle="1283, 556, 176, 39" DesignTimeScaleFactor="1" ElementType="Button" Guid="7607a4a7-7300-48a9-8f3b-cc295a0dbd4b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='22-LAB-045.pdf' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e8de19ea-2091-4fd4-af8c-2990c92c80eb" CvTextArea="1050, 563, 163, 18" CvTextArgument="Fecha de publicación" CvType="Text" DesignTimeRectangle="1049, 563, 164, 18" ElementType="Text" Guid="a952a3bf-1280-4390-9422-fdb055bdb512" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="840be274fb6571e0e475d89c73b152d1.png" xmlns="">0Wz3OJ6LeGECEkhFyz5il9w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

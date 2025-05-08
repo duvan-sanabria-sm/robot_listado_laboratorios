@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9cDSTnUockyGffAdSaJGHg" Reference="QIrQ5PJ1okK1ojLnv_LmXw/QT-L4pc1RUykWAnDK3Fx1w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="c6fe8268-95a8-4d40-9671-0bd5475f4076" CvElementArea="1283, 599, 177, 38" CvTextArea="1338, 611, 70, 13" CvTextArgument="2027-11-10" CvType="Button" DesignTimeRectangle="1283, 599, 177, 38" DesignTimeScaleFactor="1" ElementType="Button" Guid="9cf9a996-290c-4219-8f8c-2a3d70488de6" ImageBase64="" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='14-LAB-024.pdf' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c6fe8268-95a8-4d40-9671-0bd5475f4076" CvTextArea="1049, 617, 173, 15" CvTextArgument="Fecha de vencimiento:" CvType="Text" DesignTimeRectangle="1050, 617, 172, 15" ElementType="Text" Guid="ef5ab533-d66b-4cfe-aa73-8046ed4a14d7" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1616dd1e82de511f1f5d8e4b6b346f6b.png" xmlns="">0mWTPRGaR0EuwB7-P1MU0uA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

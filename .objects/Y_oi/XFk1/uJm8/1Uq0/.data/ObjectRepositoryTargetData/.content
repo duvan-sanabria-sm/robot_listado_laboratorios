@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6IQHEIDE_E-lbLB97zk2nA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="efaidnbmnnnibpcajpcglclefindmkaj/https://onac.org.co/certificados/13-LAB-053.pdf" DesignTimeRectangle="349, 492, 1228, 432" DesignTimeScaleFactor="1" ElementType="Table" FullSelectorArgument="&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='Vista del documento' role='grouping' /&gt;&lt;ctrl role='table' /&gt;" FuzzySelectorArgument="&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='13-LAB-053.pdf' role='document' /&gt;&lt;ctrl name='Vista del documento' role='grouping' /&gt;&lt;ctrl role='table' automationid='' /&gt;" Guid="c552dc06-2511-4f65-862b-a26cc639e195" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='13-LAB-053.pdf y 2 páginas más - Trabajo: Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="60d28b442587246daf9afee3c5eabec2.png" xmlns="">0lMFo57q-c0mxaHj6m7LJzw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

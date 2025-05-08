@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Extraer tabla de datos certificado",
+  "Type": "Screen",
+  "Id": "Uvb5gVhynE-IZcIlqDp0kA",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/Uvb5gVhynE-IZcIlqDp0kA",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/Vm5DB4eJQUy2tMQuSDnV9g",
+  "Created": "2025-04-29T16:11:20.361076Z",
+  "Updated": "2025-04-29T16:11:20.361076Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

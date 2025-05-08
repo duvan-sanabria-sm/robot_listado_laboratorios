@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EnaMPFBZlEmecr8W_d6q0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ilovepdf.com/es/pdf_a_excel" CVScreenId="beec7c31-ac37-4364-b2c3-1d741eb45413" CvElementArea="1505, 928, 397, 87" CvTextArea="1586, 960, 212, 23" CvTextArgument="Convertir a EXCEL" CvType="Button" DesignTimeRectangle="1508, 932, 392, 80" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='processTask' tag='BUTTON' type='' class='btn btn--process btn--red pdfoffice' aaname='Convertir a EXCEL ' check:innerText='Convertir a EXCEL' /&gt;" Guid="e2b1023a-10b0-4cff-980f-240d16f64a31" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Convierte tus tablas en PDF a EXCEL' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="beec7c31-ac37-4364-b2c3-1d741eb45413" CvElementArea="1505, 928, 397, 87" CvTextArea="1586, 960, 212, 23" CvTextArgument="Convertir a EXCEL" CvType="Button" DesignTimeRectangle="1588, 944, 208, 56" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='processTaskTextBtn' tag='SPAN' type='' class='' aaname='Convertir a EXCEL' check:innerText='Convertir a EXCEL' /&gt;" Guid="e5cb76e0-d21d-4305-9789-e30ea8a3f2dc" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="beb763666adeb0c98526df504eb00180.png" xmlns="">0Oqz1hGYZPUOZFk9PdABAzQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

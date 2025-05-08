@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qiRRWG1gski07RUT77DGcA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ilovepdf.com/es/pdf_a_excel" CVScreenId="ae59a5b9-043f-4ba0-8f81-09887e1d07cb" CvElementArea="778, 398, 377, 85" CvTextArea="827, 429, 281, 23" CvTextArgument="Seleccionar archivo PDF" CvType="Button" DesignTimeRectangle="781, 401, 374, 80" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='pickfiles' tag='A' type='' class='uploader__btn tooltip--left active' aaname='         Sube tu archivo y transfórmalo.         Seleccionar archivo PDF     ' check:innerText='Seleccionar archivo PDF' /&gt;" Guid="05f3e68b-b71f-433c-be0a-ddb50dbd0483" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Convierte tus tablas en PDF a EXCEL' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ae59a5b9-043f-4ba0-8f81-09887e1d07cb" CvTextArea="733, 259, 470, 36" CvTextArgument="Convierte PDF a EXCEL" CvType="Text" DesignTimeRectangle="60, 251, 1816, 52" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='tool__header__title' aaname='Convierte PDF a EXCEL' check:innerText='Convierte PDF a EXCEL' /&gt;" Guid="362d6aa3-34a3-4610-bc04-d74f1d27e025" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="61eddecec6824716d73e44aec54d5d59.png" xmlns="">0A9KZ75aoh0GpSAo9rrUPRQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Extraer tabla de datos certificado",
+  "Type": "App",
+  "Id": "rfu5ZrjYuke1usU83kS6kg",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/rfu5ZrjYuke1usU83kS6kg",
+  "Created": "2025-04-29T16:11:20.3158979Z",
+  "Updated": "2025-04-29T16:11:20.3158979Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

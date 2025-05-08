@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Convierte tus tablas en PDF a EXCEL",
+  "Type": "App",
+  "Id": "eeY6AwAUVEWWVPOivdMuuQ",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/eeY6AwAUVEWWVPOivdMuuQ",
+  "Created": "2025-05-06T17:03:26.844316Z",
+  "Updated": "2025-05-06T17:03:26.844316Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

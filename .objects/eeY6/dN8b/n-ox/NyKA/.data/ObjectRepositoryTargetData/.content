@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3lCcSpb_qU2egNnBLwn7Ng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ilovepdf.com/es/descarga/wg04tjxv8kvw4rszhqnmgm81hzlxxbx666nh2wl113t8prtb3fq2lf6wmht9dtnn92zjqf1fbwgv4hjcqp44Alcprc3vf2jkfxyrrbb2t7rqvttsymtcwvAbv2jfj5nxf6mhmbA5fljglbpb0clk1tt7d0qpk56ysy1l9yq32w5xnddxAsl1/69o" CVScreenId="d62f65fe-a0b6-4d01-882f-459b92c77db2" CvElementArea="793, 308, 333, 85" CvTextArea="880, 339, 201, 28" CvTextArgument="Descargar EXCEL" CvType="Button" DesignTimeRectangle="795, 311, 331, 80" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='pickfiles' tag='A' type='' class='downloader__btn active' aaname='                                                        Descargar EXCEL        ' check:innerText='Descargar EXCEL' /&gt;" Guid="8c20cbbf-bbfb-4df4-877c-4073a42ac65c" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Descargar archivo | iLovePDF' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d62f65fe-a0b6-4d01-882f-459b92c77db2" CvTextArea="604, 253, 713, 26" CvTextArgument="Tu PDF se ha convertido en tablas de EXCEL editables" CvType="Text" DesignTimeRectangle="376, 251, 1170, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='title2' aaname='Tu PDF se ha convertido en tablas de EXCEL editables' check:innerText='Tu PDF se ha convertido en tablas de EXCEL editables' /&gt;" Guid="2ac9977a-d58c-44c4-932c-e082cc06b7dc" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="53380ab05eb60dd44336d355b9ab937a.png" xmlns="">0okJC-L6Tv0Wq-LWRG3ZOvg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

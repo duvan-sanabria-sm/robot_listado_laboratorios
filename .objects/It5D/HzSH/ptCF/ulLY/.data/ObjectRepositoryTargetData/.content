@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="61iPxfMHF0-AcskSeGXPTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="efaidnbmnnnibpcajpcglclefindmkaj/https://onac.org.co/certificados/13-LAB-053.pdf" CVScreenId="e51fd0ff-01e6-44b9-bf22-39939c79a906" CvElementArea="319, 253, 185, 79" CvType="Button" DesignTimeRectangle="319, 253, 185, 79" DesignTimeScaleFactor="1" ElementType="Button" Guid="ee449d64-ca3f-4e7d-bb90-2aa5389237e6" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='13-LAB-053.pdf y 1 página más - Trabajo: Microsoft​ Edge' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e51fd0ff-01e6-44b9-bf22-39939c79a906" CvTextArea="807, 262, 321, 23" CvTextArgument="ANEXO DEL CERTIFICADO" CvType="Text" DesignTimeRectangle="807, 262, 321, 23" ElementType="Text" Guid="fd7ff64c-bfb2-45ee-bd4b-aeec972498b0" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7b7b83a7485d7f1cffbcf5f27a9f449f.png" xmlns="">0fGj4-1sv_Ui_zQ4Ai2tPxQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
