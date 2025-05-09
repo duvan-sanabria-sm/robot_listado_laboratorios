@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JZz256ae8keiyDe8XSQzyw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="onac.org.co/directorio3/index.php/acreditaciones/13-LAB-053" CVScreenId="cbcbe9fb-2449-4330-b526-fd822df25238" CvTextArea="789, 645, 76, 15" CvType="AnyWordGroup" DesignTimeRectangle="776, 642, 738, 20" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='col-xs-8' parentid='acreditacion_info' tag='DIV' type='' /&gt;" Guid="85152f54-7f17-467d-ba16-245c69e78318" ScopeSelectorArgument="&lt;html app='msedge.exe' title='13-LAB-053' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cbcbe9fb-2449-4330-b526-fd822df25238" CvTextArea="420, 644, 276, 14" CvTextArgument="Fecha de vencimiento de la acreditación:" CvType="Text" DesignTimeRectangle="422, 644, 274, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='STRONG' class='' aaname='Fecha de vencimiento de la acreditación:' check:innerText='Fecha de vencimiento de la acreditación:' /&gt;" Guid="c8371b07-4fb4-41d8-b391-152d85c6d725" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7d8963ad84e7788e7178e74570d1f798.png" xmlns="">0okbaupWasE2YNn3L3PG54g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

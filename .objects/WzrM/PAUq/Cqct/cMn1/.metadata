@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Fecha de Renovación",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "cMn17n4idkChjlZy5RGxeg",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/cMn17n4idkChjlZy5RGxeg",
+  "ParentRef": "QIrQ5PJ1okK1ojLnv_LmXw/CqctbwUmGU-WpIRDZsx8nA",
+  "Created": "2025-05-09T16:11:57.7778795Z",
+  "Updated": "2025-05-09T16:11:57.7778795Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

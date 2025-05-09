@@ -1,0 +1,12 @@
+﻿{
+  "Name": "GetLinksFromCells.vb - Untitled (Workspace) -",
+  "Type": "App",
+  "Id": "WzrMKQixmUeJHQqE3pbWJg",
+  "Reference": "QIrQ5PJ1okK1ojLnv_LmXw/WzrMKQixmUeJHQqE3pbWJg",
+  "Created": "2025-05-09T16:09:59.6436176Z",
+  "Updated": "2025-05-09T16:09:59.6436176Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
