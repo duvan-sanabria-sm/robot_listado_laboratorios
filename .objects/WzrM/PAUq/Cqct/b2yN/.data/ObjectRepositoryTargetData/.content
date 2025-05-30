@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XHjNXf67iUWJtty5cbFueA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="onac.org.co/directorio3/index.php/acreditaciones/20-LAB-009" CVScreenId="ae0b2353-e87e-47fd-ad21-ee1522b411e9" CvTextArea="420, 683, 325, 14" CvTextArgument="Fecha de publicación de la última actualización:" CvType="Text" DesignTimeRectangle="422, 683, 322, 16" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='STRONG' class='' aaname='Fecha de publicación de la última actualización:' check:innerText='Fecha de publicación de la última actualización:' /&gt;" Guid="a7b26cf3-da95-4b67-930c-6b24be1af61b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='20-LAB-009' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ae0b2353-e87e-47fd-ad21-ee1522b411e9" CvElementArea="466, 419, 112, 26" CvTextArea="470, 422, 101, 18" CvTextArgument="Acreditado" CvType="Button" DesignTimeRectangle="467, 420, 110, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='SPAN' type='' class='badge badge-primary' aaname='Acreditado' check:innerText='Acreditado' /&gt;" Guid="31d2ebfa-4689-4b57-94c0-5d267e742333" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="46e5f8636291108b4f9de9c646551d7d.png" xmlns="">0ZGHtSq9zkkWHxIjfOmiRVA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
